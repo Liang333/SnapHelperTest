@@ -7,3 +7,5 @@ PagerSnapHelper 和ViewPage效果一样，一次滑动一页。LinearSnapHelper�
 * codeAuthor: Linda
 * time:2020.5.8, 21:00<br>
 [参考网址：] (https://blog.csdn.net/qq_17766199/article/details/83147483 "悬停显示")
+####项目效果图
+![image](https://github.com/Liang333/SnapHelperTest/blob/master/Image/1.png)
